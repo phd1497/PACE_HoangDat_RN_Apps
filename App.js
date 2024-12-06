@@ -28,7 +28,6 @@ export default function App() {
         <Text style={styles.sectionTitle}>Professional Skills:</Text>
         <Text style={styles.sectionContent}>- Web Development</Text>
         <Text style={styles.sectionContent}>- Mobile App Development</Text>
-        <Text style={styles.sectionContent}>- UI/UX Design</Text>
       </View>
     </SafeAreaView>
   );
